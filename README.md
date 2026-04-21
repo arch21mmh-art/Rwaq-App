@@ -1,34 +1,30 @@
-# 🏛️ رواق | Rwaq 
-### المسودة الذكية بنظام الوصول الغامض (Gesture-Based AI Workspace)
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- TODO: Set the document title to the name of your application -->
+    <title>رواق — Rwaq · مسودة ذكية</title>
+    <meta name="description" content="رواق: غرفة رقمية فخمة وغامضة لحفظ الأفكار والملاحظات بأسلوب داكن أنيق.">
+    <meta name="author" content="Rwaq" />
 
-**رواق** هو تطبيق مسودة (Drafting App) مفتوح المصدر مصمم خصيصاً للمبدعين والمعماريين الذين يبحثون عن مساحة هادئة وغامضة لجمع أفكارهم، صورهم، ومستنداتهم، مدعوماً بتقنيات الذكاء الاصطناعي.
+    
+    
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/51096a00-9e35-439c-96ab-bc5524806e95/id-preview-618b8261--93c1f336-b377-4c0e-bd11-5e6ecfa8234c.lovable.app-1776795280302.png">
 
----
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@Lovable" />
+    <meta name="twitter:image" content="https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/51096a00-9e35-439c-96ab-bc5524806e95/id-preview-618b8261--93c1f336-b377-4c0e-bd11-5e6ecfa8234c.lovable.app-1776795280302.png">
+    <meta property="og:title" content="رواق — Rwaq · مسودة ذكية">
+  <meta name="twitter:title" content="رواق — Rwaq · مسودة ذكية">
+  <meta property="og:description" content="رواق: غرفة رقمية فخمة وغامضة لحفظ الأفكار والملاحظات بأسلوب داكن أنيق.">
+  <meta name="twitter:description" content="رواق: غرفة رقمية فخمة وغامضة لحفظ الأفكار والملاحظات بأسلوب داكن أنيق.">
+</head>
 
-## 🌑 مفهوم التطبيق (The Concept)
-يتبنى "رواق" فلسفة **الأمن بالتمويه**. واجهة الدخول ليست كما تبدو؛ فهي مصممة لتكون "مستفزة" ومخادعة حيث تهرب خانات النصوص من المستخدم. الطريق الوحيد للعبور هو "المفتاح السري" المرسوم.
-
-## 🗝️ ميزة الوصول الفريدة
-- **بوابة التحدي:** خانات تسجيل دخول تفاعلية تتحرك عشوائياً عند اقتراب المؤشر.
-- **إيماءة Z:** التطبيق يفتح فقط عند رسم حرف **Z** بشكل انسيابي على الشاشة، مما يحول الواجهة من وضع "المزحة" إلى وضع "الإبداع".
-
-## 🚀 المميزات الرئيسية
-- **🧠 ذكاء اصطناعي متكامل:** تنفيذ مهام تلقائية، تلخيص نصوص، واستخراج البيانات من الصور والمستندات.
-- **🖼️ أرشيف بصري:** مساحة لسحب وإفلات الصور (المخططات المعمارية، الالهام البصري) والمستندات.
-- **🖤 تصميم غامق (Dark Aesthetic):** واجهة مستوحاة من النمط النيوكلاسيكي الحديث مع راحة بصرية فائقة.
-- **📂 تنظيم ذكي:** تصنيف تلقائي للمحتوى بناءً على نوع المشروع أو الفكرة.
-
-## 🛠️ التقنيات المستخدمة (Tech Stack)
-- **Frontend:** React / Flutter (حسب اختيارك)
-- **Animations:** Framer Motion
-- **AI Engine:** OpenAI API / Gemini API
-- **Styling:** Tailwind CSS (Dark Mode)
-
-## 📥 طريقة التثبيت (Installation)
-*ملاحظة: التطبيق لا يزال في مرحلة التطوير.*
-```bash
-git clone [https://github.com/arch21mmh-art/Rwaq-App.git](https://github.com/arch21mmh-art/Rwaq-App.git)
-cd Rwaq-App
-npm install
-npm run dev
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
 
